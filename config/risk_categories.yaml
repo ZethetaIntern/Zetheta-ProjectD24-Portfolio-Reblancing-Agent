@@ -1,0 +1,37 @@
+# Broad asset-class targets from the project specification.
+risk_categories:
+  Ultra-Conservative:
+    portfolios: 5000
+    equity: 0.15
+    fixed_income: 0.60
+    alternatives: 0.10
+    cash: 0.15
+    drift_band: 0.020
+  Conservative:
+    portfolios: 12000
+    equity: 0.30
+    fixed_income: 0.45
+    alternatives: 0.12
+    cash: 0.13
+    drift_band: 0.025
+  Balanced:
+    portfolios: 18000
+    equity: 0.50
+    fixed_income: 0.30
+    alternatives: 0.12
+    cash: 0.08
+    drift_band: 0.030
+  Aggressive:
+    portfolios: 10000
+    equity: 0.70
+    fixed_income: 0.15
+    alternatives: 0.10
+    cash: 0.05
+    drift_band: 0.040
+  Ultra-Aggressive:
+    portfolios: 5000
+    equity: 0.85
+    fixed_income: 0.05
+    alternatives: 0.07
+    cash: 0.03
+    drift_band: 0.050

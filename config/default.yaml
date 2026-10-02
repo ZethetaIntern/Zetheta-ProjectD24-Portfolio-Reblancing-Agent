@@ -1,0 +1,7 @@
+transaction_cost_bps: 12
+short_term_tax_rate: 0.20
+long_term_tax_rate: 0.125
+wash_sale_window_days: 30
+groq_temperature_client: 0.4
+groq_temperature_advisor: 0.3
+groq_temperature_compliance: 0.1

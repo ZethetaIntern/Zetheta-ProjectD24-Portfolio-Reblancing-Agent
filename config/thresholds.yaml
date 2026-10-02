@@ -1,0 +1,7 @@
+thresholds:
+  calendar_days: 90
+  max_turnover: 0.20
+  max_single_trade: 0.10
+  max_equity: 0.80
+  human_review_turnover: 0.20
+  max_agent_retries: 3
