@@ -1,12 +1,3 @@
----
-ZETHETA_INTERN_ID: [YOUR-INTERN-ID]
-ZETHETA_PROJECT_CODE: Project 1D
-ZETHETA_PROJECT_TITLE: Autonomous Portfolio Rebalancing Agent with Explainable Decisions
-ZETHETA_ROLE: Agentic AI Engineer
-ZETHETA_SUBMISSION_TYPE: github
-ZETHETA_SUBMISSION_DATE: [YYYY-MM-DD]
-ZETHETA_TECH_STACK: Python, LangChain, Groq, CVXPY, SHAP, LIME, Gradio
----
 
 # WealthPilot AI — Autonomous Portfolio Rebalancing Agent
 
